@@ -43,7 +43,7 @@ This project is **based on** a course project by [Jonas Schmedtmann] and used he
 
 If you want to connect, feel free to reach out:
 
-- Email: your@email.com
+- Email: xristos_apostolidis98@yahoo.com
 - LinkedIn: [Christos Apostolidis](https://www.linkedin.com/in/christos-apostolidis-a22181250/)
 - GitHub: [cdrapos](https://github.com/cdrapos)
 
