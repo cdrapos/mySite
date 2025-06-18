@@ -14,7 +14,7 @@ The project was originally developed as part of the **"Build Responsive Websites
 
 ## 🚀 Live Demo
 
-👉 [View the live website here]()  
+👉 [View the live website here](https://cdrapos.github.io/mySite/)  
 _(replace with your actual GitHub Pages link)_
 
 ## 🛠️ Tech Stack
