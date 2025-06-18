@@ -1,0 +1,6 @@
+
+This project was created as part of the [Build Responsive Websites](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course by Jonas Schmedtmann.
+
+I followed the course and added my own customizations and extensions to the original layout and code.
+
+⚠️ This project is for learning and portfolio purposes only. All credit for the base layout and initial design goes to Jonas Schmedtmann.
